@@ -1,0 +1,1 @@
+Mini ALU that performs addition, subtraction, left shift, or right shift on two 4-bit number inputs and displays results on FPGA. Inspiration from UCLA IEEE DAV Lab 1 at: https://projects.ieeebruins.com/DAV/lab-1
