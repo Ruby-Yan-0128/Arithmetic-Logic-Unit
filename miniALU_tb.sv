@@ -1,6 +1,5 @@
 `timescale 1ns / 1ns
 
-
 module miniALU_tb(
     );
     logic [3:0] op1;
