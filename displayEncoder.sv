@@ -1,6 +1,5 @@
 `timescale 1ns / 1ns
 
-
 module displayEncoder(
     input [19:0] result, 
     output logic [3:0] numberBits[0:3]
