@@ -1,6 +1,5 @@
 `timescale 1ns / 1ns
 
-
 module calculator_top(
 input logic [3:0] op1, 
 input logic [3:0] op2, 
